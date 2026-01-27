@@ -1,2 +1,5 @@
-# dla-project-2526
-This repo was used to upload the notebook of a Plant Disease Classification project from leaf images.
+# Plant desease classification from leaf images
+
+Mattia Cocco 65336 and Tomas Lepuri 65358
+
+Deep Learning and Applications 2025-2026, Università degli Studi di Cagliari.
